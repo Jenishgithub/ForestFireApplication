@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:showDividers="middle">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/header_gradient"
+        android:id="@+id/linearLayout2">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="@color/whiteflat"
+            android:text="Quick Report"
+            android:gravity="center" />
+
+
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/save_report"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_margin="10dp">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Fire Type"
+                    android:id="@+id/textView2"
+                    android:layout_margin="5dp"
+                    android:textColor="@color/black"
+                    android:layout_weight="1" />
+
+                <RadioGroup
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:showDividers="middle"
+                    android:id="@+id/rg_fire_type"
+                    android:layout_weight="1">
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Crown Fire"
+                        android:id="@+id/ft_crown_fire"
+                        android:checked="true" />
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Bush Fire"
+                        android:id="@+id/ft_bush_fire"
+                        android:checked="false" />
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Ground Fire"
+                        android:id="@+id/ft_ground_fire"
+                        android:checked="false" />
+                </RadioGroup>
+            </LinearLayout>
+            <include layout="@layout/line"/>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Fire Size"
+                    android:id="@+id/textView3"
+                    android:layout_margin="5dp"
+                    android:textColor="@color/black"
+                    android:layout_weight="1" />
+
+                <RadioGroup
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:showDividers="middle"
+                    android:id="@+id/rg_fire_size"
+                    android:layout_weight="1">
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Big"
+                        android:id="@+id/fs_big"
+                        android:checked="true" />
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Medium"
+                        android:id="@+id/fs_medium"
+                        android:checked="false" />
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Small"
+                        android:id="@+id/fs_small"
+                        android:checked="false" />
+                </RadioGroup>
+            </LinearLayout>
+            <include layout="@layout/line"/>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Current Status of Fire"
+                    android:id="@+id/textView4"
+                    android:layout_margin="5dp"
+                    android:textColor="@color/black"
+                    android:layout_weight="1" />
+
+                <RadioGroup
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:showDividers="middle"
+                    android:id="@+id/rg_current_status"
+                    android:layout_weight="1">
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Just Started"
+                        android:id="@+id/cs_just_started"
+                        android:checked="true" />
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Under Control"
+                        android:id="@+id/cs_under_control"
+                        android:checked="false" />
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Expanding"
+                        android:id="@+id/cs_expanding"
+                        android:checked="false" />
+                </RadioGroup>
+
+            </LinearLayout>
+            <include layout="@layout/line"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_style"
+        android:text="REPORT"
+        android:textColor="@color/whiteflat"
+        android:id="@+id/save_report"
+        android:layout_gravity="center_horizontal"
+        android:layout_alignParentBottom="true" />
+
+
+</RelativeLayout>

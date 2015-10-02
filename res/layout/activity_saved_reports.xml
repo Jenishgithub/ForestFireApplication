@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/all_background">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upload All"
+        android:id="@+id/upload_all"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="5dp"
+        android:background="@drawable/button_style"
+        android:textColor="@color/whiteflat" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ListView"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:divider="@color/green"
+        android:dividerHeight="1dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_above="@+id/new_button" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Report"
+        android:id="@+id/new_button"
+        android:layout_above="@+id/upload_all"
+        android:layout_alignRight="@+id/ListView"
+        android:layout_alignEnd="@+id/ListView"
+        android:layout_alignLeft="@+id/ListView"
+        android:layout_alignStart="@+id/ListView"
+        android:background="@drawable/button_style"
+        android:textColor="@color/whiteflat"
+        android:visibility="gone" />
+</RelativeLayout>

@@ -1,0 +1,2661 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 1,
+			"OBJECTID": 1,
+			"NAME": "Amrita"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.304520995807877,
+			27.324651305753399]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 2,
+			"OBJECTID": 3,
+			"NAME": "Andheri Baigarthan"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.00888418403791,
+			27.51446913805599]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 3,
+			"OBJECTID": 4,
+			"NAME": "Aampkhola"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.128228219486104,
+			27.349989811973046]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 4,
+			"OBJECTID": 5,
+			"NAME": "Ashok"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.132312462424963,
+			27.395501709035109]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 5,
+			"OBJECTID": 6,
+			"NAME": "Babari Gairi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.187763719221849,
+			27.612594567584726]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 6,
+			"OBJECTID": 7,
+			"NAME": "Bangalamukhi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.371068323931596,
+			27.371588729439708]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 7,
+			"OBJECTID": 8,
+			"NAME": "Bageshwori"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.059869221683996,
+			27.607664776452257]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 8,
+			"OBJECTID": 9,
+			"NAME": "Bageshwori"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.89636813827741,
+			27.593585062232421]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 9,
+			"OBJECTID": 10,
+			"NAME": "Bagh Bhairav"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.133996286329577,
+			27.401492818847252]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 10,
+			"OBJECTID": 11,
+			"NAME": "Bagh Bhairab"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.172163174806826,
+			27.300495824660121]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 11,
+			"OBJECTID": 12,
+			"NAME": "Baghphal"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.357434201568836,
+			27.216940182602716]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 12,
+			"OBJECTID": 13,
+			"NAME": "Baikuntha"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.356700812289787,
+			27.379369957636261]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 13,
+			"OBJECTID": 14,
+			"NAME": "Bajrakali"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.865239272825448,
+			27.653608607043338]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 14,
+			"OBJECTID": 15,
+			"NAME": "Bakaiya Thakur"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.28344898238484,
+			27.369340495093223]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 15,
+			"OBJECTID": 16,
+			"NAME": "Balkanya"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.232003419278399,
+			27.393790764418526]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 16,
+			"OBJECTID": 17,
+			"NAME": "Baluwa Bhanjyan"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.74778876704265,
+			27.580932846985519]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 17,
+			"OBJECTID": 18,
+			"NAME": "Banshagopal"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.146673936676962,
+			27.39638436285097]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 18,
+			"OBJECTID": 19,
+			"NAME": "Banashkhandi Devi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.044475378572869,
+			27.438654128885183]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 19,
+			"OBJECTID": 20,
+			"NAME": "Bankali"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.396889934594682,
+			27.281871841841422]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 20,
+			"OBJECTID": 21,
+			"NAME": "Banshagopal"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.158183388123874,
+			27.394367722383667]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 21,
+			"OBJECTID": 22,
+			"NAME": "Banthakur"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.424351172248222,
+			27.213942568416002]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 22,
+			"OBJECTID": 23,
+			"NAME": "Bankali"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.872683238583946,
+			27.517754586400549]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 23,
+			"OBJECTID": 24,
+			"NAME": "Baropit"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.150603709119423,
+			27.629381162020184]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 24,
+			"OBJECTID": 25,
+			"NAME": "Basanta"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.173767782465092,
+			27.263961685504096]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 25,
+			"OBJECTID": 27,
+			"NAME": "Bhairabdanda"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.023095759589054,
+			27.437029464947482]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 26,
+			"OBJECTID": 28,
+			"NAME": "Bhainseshwor"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.439348179803403,
+			27.268895174639837]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 27,
+			"OBJECTID": 29,
+			"NAME": "Bhartabilaune"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.902147774909764,
+			27.600174194995748]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 28,
+			"OBJECTID": 30,
+			"NAME": "Bhumeshorihariyali"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.304182556461313,
+			27.277143472912147]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 29,
+			"OBJECTID": 31,
+			"NAME": "Bhutan Devi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.754071287731236,
+			27.596398590349871]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 30,
+			"OBJECTID": 32,
+			"NAME": "Brahma Thakur"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.205204609529176,
+			27.342688258730593]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 31,
+			"OBJECTID": 34,
+			"NAME": "Buddhadarshan"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.314571515891231,
+			27.322342875893508]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 32,
+			"OBJECTID": 36,
+			"NAME": "Bungdal"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.065413315072945,
+			27.454607527366022]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 33,
+			"OBJECTID": 37,
+			"NAME": "Chakra Devi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.990823288625862,
+			27.458292975962173]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 34,
+			"OBJECTID": 38,
+			"NAME": "Chamere"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.353930147729486,
+			27.416175142277723]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 35,
+			"OBJECTID": 39,
+			"NAME": "Chanauta"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.918194865887457,
+			27.472571904647062]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 36,
+			"OBJECTID": 40,
+			"NAME": "Chyanu Chyanu"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.27013330566308,
+			27.391242931495221]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 37,
+			"OBJECTID": 41,
+			"NAME": "Chhardachhahare"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.164204578907757,
+			27.598544357011363]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 38,
+			"OBJECTID": 42,
+			"NAME": "Chilaunetar"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.740571044961456,
+			27.596950484413441]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 39,
+			"OBJECTID": 43,
+			"NAME": "Chillibas"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.085597569444388,
+			27.44955647802184]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 40,
+			"OBJECTID": 44,
+			"NAME": "Chiruwasalleni"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.397982679834527,
+			27.245551307101678]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 41,
+			"OBJECTID": 45,
+			"NAME": "Chisapani"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.085000741759686,
+			27.352293687117349]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 42,
+			"OBJECTID": 46,
+			"NAME": "Chitre Pani"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.047696663929116,
+			27.38324152556762]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 43,
+			"OBJECTID": 47,
+			"NAME": "Chuchchekhola"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.101862478186646,
+			27.402544204979549]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 44,
+			"OBJECTID": 48,
+			"NAME": "Chundevi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.821763939849376,
+			27.653720620276168]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 45,
+			"OBJECTID": 49,
+			"NAME": "Churekalilek"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.108897266628603,
+			27.347621722245005]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 46,
+			"OBJECTID": 50,
+			"NAME": "Churiyamai Bandevi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.014677518152851,
+			27.364621657890222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 47,
+			"OBJECTID": 51,
+			"NAME": "Dakshinkali"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.366052076749511,
+			27.381743562492328]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 48,
+			"OBJECTID": 52,
+			"NAME": "Dangdunge"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.010597277144427,
+			27.439788440702959]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 49,
+			"OBJECTID": 55,
+			"NAME": "Dantar"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.855857080500343,
+			27.653767804685788]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 50,
+			"OBJECTID": 56,
+			"NAME": "Darbar Danda"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.051332757794569,
+			27.460695069630301]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 51,
+			"OBJECTID": 57,
+			"NAME": "Deujar Thakur"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.39396043393414,
+			27.403033013966315]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 52,
+			"OBJECTID": 58,
+			"NAME": "Deupur"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.373368994957801,
+			27.352146870439842]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 53,
+			"OBJECTID": 59,
+			"NAME": "Deuta Khola"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.317813721535529,
+			27.398727237659877]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 54,
+			"OBJECTID": 60,
+			"NAME": "Devisthan"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.178978982686473,
+			27.60050089475277]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 55,
+			"OBJECTID": 61,
+			"NAME": "Dharmashala"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.394266722594679,
+			27.387810656807407]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 56,
+			"OBJECTID": 65,
+			"NAME": "Durga Mai"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.179972393005499,
+			27.352021072202199]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 57,
+			"OBJECTID": 66,
+			"NAME": "Ganesh Sunder"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.384999260633492,
+			27.394566187294444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 58,
+			"OBJECTID": 68,
+			"NAME": "Gaurishankar"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.195996676823626,
+			27.440319734827497]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 59,
+			"OBJECTID": 69,
+			"NAME": "Ghyampe"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.097642566118481,
+			27.344076651589049]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 60,
+			"OBJECTID": 70,
+			"NAME": "Geeta"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.471577904081457,
+			27.184127272049491]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 61,
+			"OBJECTID": 71,
+			"NAME": "Gitawar"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.185625942601902,
+			27.32318086801159]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 62,
+			"OBJECTID": 72,
+			"NAME": "Goldhunga"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.991433364560621,
+			27.643177226960731]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 63,
+			"OBJECTID": 73,
+			"NAME": "Golmeraja"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.37368891283343,
+			27.407097563959834]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 64,
+			"OBJECTID": 74,
+			"NAME": "Golmeraja"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.359137724336193,
+			27.362578426492728]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 65,
+			"OBJECTID": 75,
+			"NAME": "Gorakhnath"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.362150817669047,
+			27.312659158310812]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 66,
+			"OBJECTID": 76,
+			"NAME": "Gorakchhya Nath"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.175625157014906,
+			27.361340915633654]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 67,
+			"OBJECTID": 77,
+			"NAME": "Goth Pakha"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.156813472748553,
+			27.596316702485527]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 68,
+			"OBJECTID": 78,
+			"NAME": "Hatti"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.471931358943181,
+			27.230256947144127]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 69,
+			"OBJECTID": 79,
+			"NAME": "Hatticharan"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.224774500694551,
+			27.323956682138697]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 70,
+			"OBJECTID": 80,
+			"NAME": "Hemkarna"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.142679090769079,
+			27.413503204548281]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 71,
+			"OBJECTID": 81,
+			"NAME": "Himchuli"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.30147417709216,
+			27.372569972556207]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 72,
+			"OBJECTID": 82,
+			"NAME": "Himchuli"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.391265225422117,
+			27.30143156310897]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 73,
+			"OBJECTID": 83,
+			"NAME": "Himshikhar"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.196976424521111,
+			27.39888039257643]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 74,
+			"OBJECTID": 84,
+			"NAME": "Indrajyoti"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.193591321234464,
+			27.385700446507567]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 75,
+			"OBJECTID": 85,
+			"NAME": "Indreni"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.392908874353665,
+			27.35780101872281]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 76,
+			"OBJECTID": 86,
+			"NAME": "Jaleshwor"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.959097822893341,
+			27.489368006884444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 77,
+			"OBJECTID": 87,
+			"NAME": "Jaleshwori"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.351801972773742,
+			27.293326368000557]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 78,
+			"OBJECTID": 88,
+			"NAME": "Janban"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.479193798278502,
+			27.195123875151211]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 79,
+			"OBJECTID": 89,
+			"NAME": "Janahit"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.935583204571998,
+			27.468057019551445]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 80,
+			"OBJECTID": 90,
+			"NAME": "Janakalyan"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.437340470566895,
+			27.208781856990914]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 81,
+			"OBJECTID": 91,
+			"NAME": "Janapriya"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.416298205112042,
+			27.227253218723959]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 82,
+			"OBJECTID": 92,
+			"NAME": "Janapriya"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.346026539103931,
+			27.390479922494773]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 83,
+			"OBJECTID": 93,
+			"NAME": "Janashakti"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.275510649894329,
+			27.225136937309596]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 84,
+			"OBJECTID": 95,
+			"NAME": "Jarungshakti"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.072906659001788,
+			27.356505268817401]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 85,
+			"OBJECTID": 96,
+			"NAME": "Jatankalika"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.915533800233803,
+			27.633902301530238]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 87,
+			"OBJECTID": 98,
+			"NAME": "Jyoti"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.150861277344873,
+			27.347484636456425]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 88,
+			"OBJECTID": 99,
+			"NAME": "Kailash"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.361978337503857,
+			27.326676052097735]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 89,
+			"OBJECTID": 100,
+			"NAME": "Kaleswor"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.310506076809489,
+			27.397200656727179]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 90,
+			"OBJECTID": 101,
+			"NAME": "Kaleshwar"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.336957061304531,
+			27.392546030122656]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 91,
+			"OBJECTID": 102,
+			"NAME": "Kali"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.462102727614024,
+			27.211469762622905]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 92,
+			"OBJECTID": 103,
+			"NAME": "Kaliban"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.242372788241383,
+			27.291141983679623]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 93,
+			"OBJECTID": 104,
+			"NAME": "Kaliban"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.29884974706745,
+			27.413915877766847]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 94,
+			"OBJECTID": 106,
+			"NAME": "Kalibed Ghari"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.291045285147675,
+			27.345158045106501]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 95,
+			"OBJECTID": 107,
+			"NAME": "Kalidevi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.096747734417178,
+			27.673855078509842]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 96,
+			"OBJECTID": 108,
+			"NAME": "Kali Devi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.060328086151031,
+			27.639894575076706]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 97,
+			"OBJECTID": 109,
+			"NAME": "Kalika"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.155969605330171,
+			27.414367737431235]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 98,
+			"OBJECTID": 110,
+			"NAME": "Kalika Hariyali"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.899411265547499,
+			27.481079086723241]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 99,
+			"OBJECTID": 111,
+			"NAME": "Kalika"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.120771887943448,
+			27.284399930520934]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 100,
+			"OBJECTID": 112,
+			"NAME": "Kalika Chandika"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.056005604346737,
+			27.537884685423002]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 101,
+			"OBJECTID": 113,
+			"NAME": "Kalika Devi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.981915144920947,
+			27.477598396348366]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 103,
+			"OBJECTID": 115,
+			"NAME": "Kalilek"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.119875968209129,
+			27.350471839730446]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 104,
+			"OBJECTID": 116,
+			"NAME": "Kalyan"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.273696776223474,
+			27.252097203404269]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 105,
+			"OBJECTID": 118,
+			"NAME": "Karuna Bhumi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.108283381749786,
+			27.590692268010315]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 106,
+			"OBJECTID": 119,
+			"NAME": "Khanigaun"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.088397271038843,
+			27.641674777522176]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 107,
+			"OBJECTID": 120,
+			"NAME": "Koledanda"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.199901502854814,
+			27.615261527830949]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 108,
+			"OBJECTID": 121,
+			"NAME": "Konchhoyoungsum"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.310484034841124,
+			27.299893325711608]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 109,
+			"OBJECTID": 123,
+			"NAME": "Kumbheshwor"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.076548662743193,
+			27.495126022471037]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 110,
+			"OBJECTID": 124,
+			"NAME": "Kusundevi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.87152232420182,
+			27.645651080658805]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 111,
+			"OBJECTID": 125,
+			"NAME": "Kuwapani"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.932094485200139,
+			27.495426095289268]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 112,
+			"OBJECTID": 126,
+			"NAME": "Laliguransh"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.21329391887005,
+			27.348056935953881]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 113,
+			"OBJECTID": 128,
+			"NAME": "Laliguransh"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.423248144568277,
+			27.366156705795824]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 114,
+			"OBJECTID": 129,
+			"NAME": "Lekali"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.858335939706706,
+			27.593506673376559]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 115,
+			"OBJECTID": 131,
+			"NAME": "Mahankal"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.342737614184855,
+			27.36144251370947]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 116,
+			"OBJECTID": 132,
+			"NAME": "Mahankal"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.406899363792959,
+			27.370608697056216]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 117,
+			"OBJECTID": 133,
+			"NAME": "Mahankal"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.099850291531027,
+			27.620982753127038]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 118,
+			"OBJECTID": 134,
+			"NAME": "Manakamana"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.796183472279537,
+			27.545732915166056]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 119,
+			"OBJECTID": 135,
+			"NAME": "Manakamana"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.051181667643121,
+			27.444317843356227]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 120,
+			"OBJECTID": 136,
+			"NAME": "Manakamana"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.335710929812109,
+			27.286835848576459]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 121,
+			"OBJECTID": 137,
+			"NAME": "Manjushree"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.152292715203771,
+			27.431921626235528]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 122,
+			"OBJECTID": 138,
+			"NAME": "Mehendoling"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.904066469030312,
+			27.503902476002569]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 123,
+			"OBJECTID": 139,
+			"NAME": "Muldanda"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.295329523194113,
+			27.307315934672051]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 124,
+			"OBJECTID": 141,
+			"NAME": "Mulkhola"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.459088882061863,
+			27.2435796914028]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 125,
+			"OBJECTID": 143,
+			"NAME": "Namobuddha"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.339475866535082,
+			27.353776796209576]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 126,
+			"OBJECTID": 144,
+			"NAME": "Namuna"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.13702546104436,
+			27.317656370164435]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 127,
+			"OBJECTID": 145,
+			"NAME": "Namuna"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.090677046329333,
+			27.445022407464169]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 128,
+			"OBJECTID": 146,
+			"NAME": "Nangepakha"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.142363759805704,
+			27.60340866987422]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 129,
+			"OBJECTID": 147,
+			"NAME": "Naulo Hariyali"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.231012087749676,
+			27.355793184219188]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 130,
+			"OBJECTID": 148,
+			"NAME": "Nawalpur Sarashowti"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.00141364900449,
+			27.452042714417566]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 131,
+			"OBJECTID": 149,
+			"NAME": "Nol Gaun"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.141219466066417,
+			27.652760512977558]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 132,
+			"OBJECTID": 150,
+			"NAME": "Newreni"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.063027795107217,
+			27.411691545780027]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 133,
+			"OBJECTID": 151,
+			"NAME": "Okhe"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.020551421994838,
+			27.543915897690837]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 134,
+			"OBJECTID": 152,
+			"NAME": "Panchakalika"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.999804763649351,
+			27.700451256293825]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 135,
+			"OBJECTID": 153,
+			"NAME": "Panchakanya"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.215039454225973,
+			27.287038568549786]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 136,
+			"OBJECTID": 154,
+			"NAME": "Panchakanya"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.179943640706341,
+			27.380094930114829]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 137,
+			"OBJECTID": 155,
+			"NAME": "Panch Pandav"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.406982598459464,
+			27.292849792247562]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 138,
+			"OBJECTID": 156,
+			"NAME": "Papli Bhanjyang"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.186139819013363,
+			27.606630784076824]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 139,
+			"OBJECTID": 157,
+			"NAME": "Pari Pakha Hardadanda"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.39324291591825,
+			27.346180715397857]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 140,
+			"OBJECTID": 158,
+			"NAME": "Pashupati"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.252294797816731,
+			27.323826307607455]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 141,
+			"OBJECTID": 159,
+			"NAME": "Pashupati"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.180301147035166,
+			27.411069842852683]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 142,
+			"OBJECTID": 160,
+			"NAME": "Pashupati"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.344771001338643,
+			27.325663485306553]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 143,
+			"OBJECTID": 162,
+			"NAME": "Piple Pokhara"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.054778506951862,
+			27.424749958746901]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 144,
+			"OBJECTID": 163,
+			"NAME": "Polaghari"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.78929112202502,
+			27.557297334832224]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 145,
+			"OBJECTID": 164,
+			"NAME": "Pragati"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.240475538167615,
+			27.366562499144898]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 146,
+			"OBJECTID": 165,
+			"NAME": "Pragatishil"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.479648691092905,
+			27.170067963197972]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 147,
+			"OBJECTID": 166,
+			"NAME": "Pratibha"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.331109265700022,
+			27.408367996355562]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 148,
+			"OBJECTID": 167,
+			"NAME": "Ramailo Danda"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.100210251798615,
+			27.637135146048955]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 149,
+			"OBJECTID": 168,
+			"NAME": "Ramaniya"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.291223314583362,
+			27.388412737503089]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 150,
+			"OBJECTID": 169,
+			"NAME": "Ram Dhuni"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.133610441445768,
+			27.344706474013435]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 151,
+			"OBJECTID": 170,
+			"NAME": "Ramite"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.367674646981811,
+			27.414887282464356]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 152,
+			"OBJECTID": 171,
+			"NAME": "Rani"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.078338704846118,
+			27.412354125276465]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 153,
+			"OBJECTID": 172,
+			"NAME": "Ratnadevi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.172633823547955,
+			27.415639330582803]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 154,
+			"OBJECTID": 173,
+			"NAME": "Ratomate"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.026970539130915,
+			27.355771772526133]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 155,
+			"OBJECTID": 174,
+			"NAME": "Rhikheshowr"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.077985914511117,
+			27.606344239070427]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 156,
+			"OBJECTID": 175,
+			"NAME": "Ritthe"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.024604629045555,
+			27.524405389295755]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 157,
+			"OBJECTID": 176,
+			"NAME": "Rudra Kali"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.385207824474293,
+			27.326350293061907]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 158,
+			"OBJECTID": 177,
+			"NAME": "Rudreshwori"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.27677605293303,
+			27.379640614074464]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 159,
+			"OBJECTID": 178,
+			"NAME": "Salghari"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.490606326814046,
+			27.16557637906309]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 160,
+			"OBJECTID": 180,
+			"NAME": "Sansaremai"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.039608892002221,
+			27.354273670485249]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 161,
+			"OBJECTID": 181,
+			"NAME": "Saraswoti"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.195918200174191,
+			27.255687809634644]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 162,
+			"OBJECTID": 182,
+			"NAME": "Setidevi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.251331418029594,
+			27.39088914807526]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 163,
+			"OBJECTID": 184,
+			"NAME": "Shaktishali"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.33341780178894,
+			27.308272807098142]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 164,
+			"OBJECTID": 185,
+			"NAME": "Shankardeep"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.067373679216416,
+			27.63959601663116]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 165,
+			"OBJECTID": 186,
+			"NAME": "Shankheswari"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.122880621654588,
+			27.433696270962017]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 166,
+			"OBJECTID": 188,
+			"NAME": "Shivshakti"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.339632243706632,
+			27.228794802913772]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 167,
+			"OBJECTID": 189,
+			"NAME": "Shikhar Pani"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.06346658261576,
+			27.357297401831811]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 168,
+			"OBJECTID": 191,
+			"NAME": "Siladevi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.174184628917104,
+			27.309828297599029]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 169,
+			"OBJECTID": 192,
+			"NAME": "Silinge"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.73589611689323,
+			27.626589837961149]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 170,
+			"OBJECTID": 193,
+			"NAME": "Simaltwak"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.255103202100671,
+			27.416147920548934]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 171,
+			"OBJECTID": 194,
+			"NAME": "Simatmai (Women)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.199244738197166,
+			27.3566530099537]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 172,
+			"OBJECTID": 195,
+			"NAME": "Simpani Deukot"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.82181296156368,
+			27.536052084746057]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 173,
+			"OBJECTID": 196,
+			"NAME": "Sisnerikatunje"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.122408476121848,
+			27.672982472135569]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 174,
+			"OBJECTID": 197,
+			"NAME": "Sisneripakha"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.760721047000189,
+			27.56368148032675]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 175,
+			"OBJECTID": 198,
+			"NAME": "Sitadevi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.774102286100472,
+			27.588685493680234]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 176,
+			"OBJECTID": 199,
+			"NAME": "Siule"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.216036314462229,
+			27.420319230170755]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 177,
+			"OBJECTID": 201,
+			"NAME": "Srijana"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.146526526015691,
+			27.297480942588752]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 178,
+			"OBJECTID": 203,
+			"NAME": "Sukel"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.829602914422807,
+			27.669731158138969]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 179,
+			"OBJECTID": 204,
+			"NAME": "Sundar"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.041524083062626,
+			27.44652767052273]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 180,
+			"OBJECTID": 205,
+			"NAME": "Sundar"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.77906096099818,
+			27.562433514815726]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 181,
+			"OBJECTID": 206,
+			"NAME": "Sundar"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.334201991556,
+			27.37173931652157]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 182,
+			"OBJECTID": 207,
+			"NAME": "Sundar Hariyali"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.451444535179874,
+			27.228338172084275]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 183,
+			"OBJECTID": 208,
+			"NAME": "Sunkoshi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.277944290859864,
+			27.338375192089874]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 184,
+			"OBJECTID": 209,
+			"NAME": "Suseli"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.085064541368297,
+			27.426336700262066]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 185,
+			"OBJECTID": 210,
+			"NAME": "Tankebhorleni"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.441192219818774,
+			27.359350003444209]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 186,
+			"OBJECTID": 211,
+			"NAME": "Tarebhir"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.35304200409017,
+			27.410029679156779]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 187,
+			"OBJECTID": 212,
+			"NAME": "Thakal Danda"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.077306079815088,
+			27.450047014558113]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 188,
+			"OBJECTID": 213,
+			"NAME": "Thulo Van"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.149862098465903,
+			27.602291350384167]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 189,
+			"OBJECTID": 215,
+			"NAME": "Tinkanya"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.196910314880711,
+			27.28141496742813]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 190,
+			"OBJECTID": 216,
+			"NAME": "Tirtiredhara Lilaban"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.41430853800513,
+			27.342503630033715]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 191,
+			"OBJECTID": 217,
+			"NAME": "Trishakti"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.435883386418922,
+			27.391103774970372]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 192,
+			"OBJECTID": 218,
+			"NAME": "Tribeni"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.407376029263688,
+			27.337956276597872]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 193,
+			"OBJECTID": 219,
+			"NAME": "Tribeni"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.457974753516638,
+			27.259910510938486]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 194,
+			"OBJECTID": 220,
+			"NAME": "Tundikhel"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.42835930208976,
+			27.237486368876692]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 195,
+			"OBJECTID": 224,
+			"NAME": "Betkholsi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.022075389709329,
+			27.393695251884072]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 196,
+			"OBJECTID": 225,
+			"NAME": "Lewat"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.977946569471868,
+			27.465605560358451]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 197,
+			"OBJECTID": 226,
+			"NAME": "Ghalepakho"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.030396629998791,
+			27.637201937410463]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 198,
+			"OBJECTID": 229,
+			"NAME": "Churekand"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.05081692185415,
+			27.3578330132719]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 200,
+			"OBJECTID": 234,
+			"NAME": "Laljhadi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.031574779675537,
+			27.462264187218576]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 201,
+			"OBJECTID": 237,
+			"NAME": "Shubha Laxmi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.001308222378128,
+			27.470013308840318]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 202,
+			"OBJECTID": 238,
+			"NAME": "Thakal Danda"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.029984550690415,
+			27.44491218194192]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 203,
+			"OBJECTID": 239,
+			"NAME": "Ekatare"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.019698592645696,
+			27.447152969908107]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 204,
+			"OBJECTID": 240,
+			"NAME": "Kalikakisedi"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.004236722319618,
+			27.480542500750129]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 205,
+			"OBJECTID": 241,
+			"NAME": "Shaktishwori"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.091184425460625,
+			27.323704892614142]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 206,
+			"OBJECTID": 242,
+			"NAME": "Thadechuri"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.835192512195064,
+			27.554489114865969]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"OBJECTID_1": 207,
+			"OBJECTID": 243,
+			"NAME": "Dakshinkali"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.816389910790107,
+			27.559175553267039]
+		}
+	}]
+}	

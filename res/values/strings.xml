@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Report Fire</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_feedback">Send Feedback</string>
+    <string name="mail_feedback_email">feedback@example.com</string>
+    <string name="mail_feedback_subject">Subject</string>
+    <string name="mail_feedback_message">Comments</string>
+    <string name="title_send_feedback">SEND</string>
+    <string name="newreports">New Reports</string>
+
+</resources>

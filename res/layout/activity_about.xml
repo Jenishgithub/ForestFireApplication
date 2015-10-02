@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="@color/all_background">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nepal Forest Fire alert apps is made by NFA in technical association with CrossOver Nepal."    android:textStyle="bold"
+        android:id="@+id/about"
+        android:padding="10dp"
+        android:textColor="@color/black" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The objective of the mobile application is to pass forest fire occurrences information  to the target user group for immediate action and prevention of further damage.
+        \nAlso the application will be used as a notification and feedback tools both for end users and ICIMOD.
+        \nThe application will have mapping system to display forest fire information with other additional  info into the map."
+        android:id="@+id/about_app"
+        android:padding="10dp"
+        android:textColor="@color/black" />
+<include layout="@layout/line"/>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Precautions"
+        android:background="@drawable/button_style"
+        android:id="@+id/btn_precautions"
+        android:textColor="@color/whiteflat"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="User Guide"
+        android:id="@+id/guide"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="
+\n\n1.Open the App.
+\n\n2.If you want to report a fire tap on “New Report” but before
+\n   a.If you are using the app for the first time, it will asks you to download file. You need to choose “Yes” or the app won’t work.
+\n   b.You can search for the forest by typing forest name and clicking the forest among the suggested list. If the forest is not on the list then it is not pre-saved on the app.
+\n   c.You can also use GPS if you are nearby the forest. After switching on the GPS you can tap on  icon and get you current location.
+\n   d.Navigate to the fire location on forest and then long press. An icon of fire appears.
+\n   e.If you are reporting quick fire, then choose “Quick Fire” option and fill the necessary details. You need to enable your mobile data in order to Quick Report.
+\n   f.If you don’t have internet or want to detail report on fire choose “Detail Report” button and fill out the form and then save. It will then prompt you to saved reports list. Now you can upload, delete or edit the report individually or add new report.
+\n\n3.If you want to view your all un-uploaded reports you can go to the saved reports screen from home window by tapping on Saved Reports.
+\n\n4.You can view all the reports from all users by tapping on “View Reports”.
+\n    a.If you have enabled mobile data it automatically downloads for new reports or if it is disabled it shows the previously stored reports.
+\n    b.You can view the detail of particular report by long press on the fire icon or can also get name of the report by tapping on it.
+\n\n5.You can also send feedback about the app by tapping on “About” on home screen and then clicking on Feedback Button.
+\n
+\n\nNote : If there’s a new fire reported by user, all other user will be notified through the notification. You can view the location and details of a fire by clicking the notification, which will take you to the “View Reports” menu of application.
+"
+        android:id="@+id/guide_text"
+        android:padding="10dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Feedback"
+        android:id="@+id/feedback"
+        android:onClick="btnFeedbackOnClick"
+        android:background="@drawable/button_style"
+        android:textColor="@color/whiteflat" />
+</LinearLayout>
+</ScrollView>

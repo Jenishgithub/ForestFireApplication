@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rendertheme xmlns="http://mapsforge.org/renderTheme" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://mapsforge.org/renderTheme/renderTheme-v4.xsd" version="4" map-background="#f8f8f8">
+
+    <rule e="way" k="boundary" v="boundary">
+        <area fill="#f8f8f8" stroke="#2c3e50" stroke-width="0.2" />
+    </rule>
+    <rule e="way" k="landuse" v="forest">
+    <rule e="way" k="*" v="*" zoom-min="10">
+        <caption k="name" font-style="italic" font-size="18" fill="#4040ff" />
+    </rule>
+        <area fill="#6fc18e" stroke="#000000" stroke-width="0.2" />
+    </rule>
+
+
+    <!--highway area -->
+    <rule e="way" k="type" v="*">
+            <rule e="way" k="type" v="major_foot_trail">
+                <line stroke="#ad813e" stroke-width="0.75" />
+            </rule>
+            <rule e="way" k="type" v="minor_foot_trail">
+                <line stroke="#e5e0c2" stroke-width="0.45" />
+            </rule>
+            <rule e="way" k="type" v="other_black_topped">
+                <line stroke="#707070" stroke-width="1.0" />
+            </rule>
+            <rule e="way" k="type" v="cart_track">
+                <line stroke="#d0d0d0" stroke-width="0.5" />
+            </rule>
+            <rule e="way" k="type" v="district_road">
+                <line stroke="#45d34f" stroke-width="1.0" />
+            </rule>
+            <rule e="way" k="type" v="highway">
+                <line stroke="#e46d71" stroke-width="1.5" />
+            </rule>
+            <rule e="way" k="type" v="road_under_construction">
+                <line stroke="#d0d0d0" stroke-width="0.5" />
+            </rule>
+    </rule>
+
+    <rule e="node" k="amenity" v="*">
+
+        <rule e="node" k="amenity" v="forest_office">
+            <symbol id="office" src="assets:forest_office.svg" />
+            <rule e="any" k="*" v="*" zoom-min="13">
+                <caption priority="-20" symbol-id="office" k="name" position="above" font-style="bold" font-size="12" fill="#0092DA" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+        <rule e="node" k="amenity" v="police_station">
+            <symbol id="police" src="assets:police_station.svg" />
+            <rule e="any" k="*" v="*" zoom-min="13">
+                <caption priority="-20" symbol-id="office" k="name" position="above" font-style="bold" font-size="12" fill="#0092DA" stroke="#FFFFFF" stroke-width="2.0"/>
+            </rule>
+        </rule>
+<!--
+        <rule e="node" k="*" v="*">
+            <caption k="name"  font-style="bold" font-size="15" fill="#4080ff" stroke="#ffffff" stroke-width="2.0" />
+        </rule>
+-->
+    </rule>
+
+</rendertheme>
